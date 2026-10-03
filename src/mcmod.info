@@ -1,0 +1,11 @@
+[
+  {
+    "modid": "manametalbeehiveclient",
+    "name": "魔法金属蜂箱按钮",
+    "description": "纯客户端：蜂箱界面增加丢出产物、补充蜜蜂按钮。服务器无需安装。",
+    "version": "1.0.0",
+    "mcversion": "1.7.10",
+    "authorList": ["Local"],
+    "dependencies": ["manametalmod"]
+  }
+]
